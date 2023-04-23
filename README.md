@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on any of the above fields
 - 📫 You can reach me 
   - [Email] samuelzewde29@gmail.com
-  - [Linkedin] https://www.linkedin.com/in/samuel-zewde-a147821ba
+  - [Linkedin] https://www.linkedin.com/in/samicsc0
 
