@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samicsc0&label=Profile%20views&color=0e75b6&style=flat" alt="samicsc0" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Express**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📝 I regularly write articles on [https://samicsc0.medium.com/](https://samicsc0.medium.com/)
 
