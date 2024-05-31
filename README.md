@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://samicsc0.medium.com/](https://samicsc0.medium.com/)
 
-- 📫 How to reach me **samuelzewde29@gmail.com**
+- 📫 How to reach me **samuelzewde29 [at] gmail [dot] com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
